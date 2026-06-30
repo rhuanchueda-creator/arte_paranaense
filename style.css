@@ -1,16 +1,16 @@
 body{
     background-color: rgba(35, 228, 83, 0.795);
-    color: #000000;
+    color:#000000;
 }
 header{
     background-color: blue;
-    color: #f8f8f8;
+    color:#f8f8f8;
 }
 section{
     background-color: rgb(78, 143, 173);
-    color: black;
+    color:black;
 }
 footer{
     background-color: #f8f8f8
-    color: black;
+    color:black;
 }

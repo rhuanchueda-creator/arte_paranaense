@@ -42,7 +42,7 @@ section {
 
 img {
     width: 100%;
-    max-width: 600%;
+    max-width: 600px;
     display: block;
     margin: auto;
     border-radius: 12px;

@@ -41,8 +41,8 @@ section {
 }
 
 img {
-    width: 100%;
-    max-width: 600px;
+    width: 50%;
+    max-width: 300px;
     display: block;
     margin: auto;
     border-radius: 12px;

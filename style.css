@@ -41,11 +41,11 @@ section {
 }
 
 img {
-    width: 50%;
-    max-width: 400px;
+    width: 25%;
+    max-width: 200px;
     display: block;
     margin: auto;
-    border-radius: 12px;
+    border-radius: 10px;
 }
 
 figcaption {

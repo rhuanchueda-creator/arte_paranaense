@@ -7,7 +7,7 @@ function curtir(){
     if(curtiu === false){
         contador.textContent++;
         curtiu = true;
-    }else{
+    }felse{
         contador.textContent--;
         curtiu = false;
     }

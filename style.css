@@ -1,5 +1,5 @@
 :root{
---cor-fundo:0, 0, 0, 0.795;
+--cor-fundo: rgb(6, 117, 52);
 --cor-texto:#e1e6e1;
 --cor-principal:darkgray;
 --cor-secundaria:azure;
@@ -11,8 +11,8 @@
 }
 
 body {
-    background-color: var (--cor-fundo);
-    color: var (--cor-texto);
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
 }

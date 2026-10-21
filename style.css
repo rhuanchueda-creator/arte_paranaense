@@ -1,12 +1,12 @@
 :root{
 --cor-fundo:0, 0, 0, 0.795;
---cor-texto:#096410;
+--cor-texto:#e1e6e1;
 --cor-principal:darkgray;
 --cor-secundaria:azure;
 --cor-card:black;
 --cor-superficie:aliceblue;
 --cor-rodape:black;
---cor-clara:rgb(138, 245, 16);
+--cor-clara:rgb(62, 102, 16);
 --cor-legenda:aliceblue;
 }
 
